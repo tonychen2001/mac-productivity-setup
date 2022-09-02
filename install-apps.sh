@@ -6,7 +6,9 @@ productivityApps[Alfred]="alfred"
 productivityApps[AltTab]="alt-tab"
 productivityApps[Dropzone]="dropzone"
 productivityApps[HiddenBar]="hiddenbar"
+productivityApps[Clipy]="clipy"
 
+# loop to prompt user if they want to install each app
 for app in "${!productivityApps[@]}"; do
     while true; do
         read -p "Do you wish to install ${app} (Y/n)? " yn

@@ -24,3 +24,9 @@ Key features:
 
 ### [**Hidden Bar**](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12)
 Lets you hide menu bar items to reduce clutter.
+
+### [**Clipy**](https://clipy-app.com/)
+Retains clipboard history.
+
+Key features:
+- Pin text as a "snippet" to conveniently paste at any time
