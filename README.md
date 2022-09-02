@@ -30,3 +30,10 @@ Retains clipboard history.
 
 Key features:
 - Pin text as a "snippet" to conveniently paste at any time
+
+### [**Oh My ZSH**](https://ohmyz.sh/)
+Oh My Zsh is an open source, community-driven framework for managing your Zsh configuration.
+
+Key features:
+- AUTO-COMPLETION!!!
+- Add themes to terminal

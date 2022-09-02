@@ -23,3 +23,15 @@ for app in "${!productivityApps[@]}"; do
     done
 done
 
+# install Oh My ZSH
+while true; do
+    read -p "Do you wish to install Oh My Zsh (Y/n)? " yn
+    case $yn in
+        "" | Y | y )
+            sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" || true
+            break;;
+        N | n )
+            break;;
+        * ) echo "Invalid input";;
+    esac
+done
